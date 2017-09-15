@@ -1,10 +1,10 @@
 # 2017-09-15_kotlinPresentation
 
-Arbeitsmateralien der Docker-Präsentation für die SWK Magdeburg vom 15.09.2017
+Arbeitsmateralien der Kotlin-Präsentation für die SWK Magdeburg vom 15.09.2017
 
 Vortrag wurde mit [reveal-md](https://github.com/webpro/reveal-md) erstellt.
 
-Entweder lokal anschauen mit (natürlich nach dem klonen):
+Entweder lokal anschauen mit:
 ```
 ./reveal-md [kotlin.md|verlosung.md]
 ```
